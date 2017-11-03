@@ -15,7 +15,7 @@ $options = array(
 
 try {
 
-		client = new WC_API_Client( 'YOUR_WOOCOMMERCE_STORE_URL', 'YOUR_WOOCOMMERCE_CONSUMER_KEY','YOUR_WOOCOMMERCE_CONSUMER_SECRET', $options );
+		client = new WC_API_Client( 'http://waroenggadget.com', 'ck_c6d24fccb9dcea5b229be591eb925ea97688073a','cs_45b391909601d5cd21e3903555292e850736a9f0', $options );
 
 
 		/// Lets Try creating the API
