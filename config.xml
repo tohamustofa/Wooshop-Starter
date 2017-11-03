@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <widget id="com.ionicframework.wooshop494530" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-  <name>Codesalsa Wooshop Starter</name>
+  <name>Waroeng Gadget Catalogue</name>
   <description>
-        Codesalsa Wooshop Starter is a Phonegap based Hybrid E-commerce App for IOS, Android platform built with AngularJS, IONIC Framework and Woocommerce REST API. It is also integrated with different cordova plugins. This Hybrid Application is mainly meant for E-commerce Portals developed using Wordpress CMS platform and Woocommerce plugin.
+        Test waroenggadget apps
     </description>
-  <author email="support@codesalsa.net" href="http://codesalsa.net/">
-      Codesalsa
+  <author email="tohamustofa@gmail.com" href="http://waroenggadget.com/">
+      tohamustofa
     </author>
   <content src="index.html"/>
   <access origin="*"/>
